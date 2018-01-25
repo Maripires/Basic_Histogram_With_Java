@@ -1,9 +1,3 @@
-
-//Harini Subbiah
-//Marilize Pires
-// Assignment 4 BASIC: Histogram
-//F17 CS F001A OBJ-ORIENTED JAVA  GROUP 12 FALL 2017
-
 import becker.robots.*;
 
 class HistogramRobot extends Robot {

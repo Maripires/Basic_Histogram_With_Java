@@ -1,8 +1,3 @@
-//Harini Subbiah
-//Marilize Pires
-// Assignment 4 BASIC: Histogram
-//F17 CS F001A OBJ-ORIENTED JAVA  GROUP 12 FALL 2017
-
 class HistogramPrinter extends Object {
 
 	public void printHistogram(int[] nums) {
